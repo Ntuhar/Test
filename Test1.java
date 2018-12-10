@@ -18,7 +18,7 @@ public class Test1 {
 		ls.add(b);
 		ls.add(c);
 		ls.add(d);
-		System.out.println(ls + " \n " + Collections.max(ls) + " : " + Collections.min(ls));
+		System.out.println(ls + " \n\n " + Collections.max(ls) + " : " + Collections.min(ls));
 	}
 
 	static void assign2() {
