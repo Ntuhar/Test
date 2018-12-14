@@ -2,7 +2,7 @@ import java.util.*;
 
 public class Test1 {
 	public static void main(String args[]) {
-		assign1();
+		assign1();		
 		assign2();
 		assign3();
 		assign4();
